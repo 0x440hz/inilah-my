@@ -137,7 +137,7 @@ export default function App() {
                   </li>
                   <li>
                     <a
-                      href="https://linkedin.com/in/0x440hz"
+                      href="https://linkedin.com/in/agasptama"
                       target="_blank"
                       rel="noreferrer"
                       className="block text-zinc-500 lg:hover:text-blue-400 active:text-blue-400 transition-colors"
